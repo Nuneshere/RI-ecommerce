@@ -70,35 +70,237 @@
     ]
   },
   "Dassi": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.boutiquedassi.com.br/BLUSA-MANGA-PRICESA-JASMIN",
+      "https://www.boutiquedassi.com.br/BLUSINHA-OMBRO-PRINCESA-LIVIA",
+      "https://www.boutiquedassi.com.br/TSHIRT-COM-AMARRACAO-NEW-YORK",
+      "https://www.boutiquedassi.com.br/REGATINHA-JULIANA",
+      "https://www.boutiquedassi.com.br/TSHIRT-TM-PLUS-PARIS",
+      "https://www.boutiquedassi.com.br/CAMISAO-LISTRADO-BENJAMINE1",
+      "https://www.boutiquedassi.com.br/T-SHIRT-PANDA-COM-APLICACAO",
+      "https://www.boutiquedassi.com.br/T-SHIRT-BOLSO-BRILHANTE",
+      "https://www.boutiquedassi.com.br/CAMISA-XADREZ-MARINA-DASSI-PROMO",
+      "https://www.boutiquedassi.com.br/CAMISA-XADREZQUADRICULADO-COLORIDA-DASSI-PROMO",
+      "https://www.boutiquedassi.com.br/MINI-VEST-CAMUFLADO-PAULINHA-DASSI-PROMO"
+    ],
+    "negative": [
+      "https://www.boutiquedassi.com.br/moda-praia",
+      "https://www.boutiquedassi.com.br/BIQUINI-SUMMER-ETNICO",
+      "https://www.boutiquedassi.com.br/shorts-beach-monalisa-dassi-promo",
+      "https://www.boutiquedassi.com.br/saia-plissada-ivana",
+      "https://www.boutiquedassi.com.br/macaquinho-botoes-grey",
+      "https://www.boutiquedassi.com.br/prazo-e-entrega",
+      "https://www.boutiquedassi.com.br/saia-jeans-destroyed-naomi",
+      "https://www.boutiquedassi.com.br/short-alfaiataria-dalila",
+      "https://www.boutiquedassi.com.br/vestido-oscar-brasil",
+      "https://www.boutiquedassi.com.br/Sutia-Reforcado-em-Microfibra-sem-Arco-e-Bojo-05",
+      "https://www.boutiquedassi.com.br/Britney-Spears-Perfume-Fantasy-Britney-Spears-100ml",
+      "https://www.boutiquedassi.com.br/Perfume-212-VIP-Rose-80ml"
+    ]
   },
   "Excluiva": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.lojasexclusiva.com.br/t-shirts/T-Shirts-Ires",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Kamilly-Botoes",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Gil-Corda",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Luz",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Ciganinha-Flores",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Cores-Ana",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Mika",
+      "https://www.lojasexclusiva.com.br/t-shirts/TSHIRT-Bless",
+      "https://www.lojasexclusiva.com.br/blusas/Max-Blusa-Ysadori",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Marrie",
+      "https://www.lojasexclusiva.com.br/blusas/Blusa-Milla"
+    ],
+    "negative": [
+      "https://www.lojasexclusiva.com.br/shorts/Short-Jully",
+      "https://www.lojasexclusiva.com.br/calcas/Pantalona-Lyz",
+      "https://www.lojasexclusiva.com.br/calcas/Calca-Suzy",
+      "https://www.lojasexclusiva.com.br/saias/Saia-Mid-Stella",
+      "https://www.lojasexclusiva.com.br/vestidos/Vestido-Caju",
+      "https://www.lojasexclusiva.com.br/vestidos/Vestido-Xicarum",
+      "https://www.lojasexclusiva.com.br/vestidos/Vestido-Tyali",
+      "https://www.lojasexclusiva.com.br/termos-e-condicoes",
+      "https://www.lojasexclusiva.com.br/shorts/Short-Bengaline-Ana",
+      "https://www.lojasexclusiva.com.br/shorts/Short-Saia-Olly"
+    ]
   },
-  "Bessa": {
-    "positive": [],
-    "negative": []
+  "CutiCutiBaby": {
+    "positive": [
+      "https://www.cuticutibaby.com.br/t-shirt-street-mescla-listras",
+      "https://www.cuticutibaby.com.br/moletom-street-bordo",
+      "https://www.cuticutibaby.com.br/t-shirt-dont-grow-up",
+      "https://www.cuticutibaby.com.br/t-shirt-raglan-long-ufofo",
+      "https://www.cuticutibaby.com.br/regata-street-pinguinhos",
+      "https://www.cuticutibaby.com.br/regata-street-flechas",
+      "https://www.cuticutibaby.com.br/camisa-kids-amigos-no-bosque",
+      "https://www.cuticutibaby.com.br/camisa-frufru-manga-essential",
+      "https://www.cuticutibaby.com.br/blusao-conforto-plush-capuz",
+      "https://www.cuticutibaby.com.br/camiseta-manga-longa-back"
+    ],
+    "negative": [
+      "https://www.cuticutibaby.com.br/vestido-gola-boneca-planeta-terra",
+      "https://www.cuticutibaby.com.br/macaquinho-corda-golfinhos",
+      "https://www.cuticutibaby.com.br/bermuda-saruel-rustic",
+      "https://www.cuticutibaby.com.br/chapeu-de-sol-fpu50-branco",
+      "https://www.cuticutibaby.com.br/rasteirinha-eco-no-jeans-mae",
+      "https://www.cuticutibaby.com.br/sapatilha-girafinha",
+      "https://www.cuticutibaby.com.br/bota-coturno-couro-suede-caramelo",
+      "https://www.cuticutibaby.com.br/macacao-curto-las-bananas",
+      "https://www.cuticutibaby.com.br/alpagarta-cuticuti-dark-jeans",
+      "https://www.cuticutibaby.com.br/sapatilha-vegan-coelhinho"
+    ]
   },
   "BluK": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.bluk.com.br/bata-visco-linho-com-renda-e-entremeios-off-limoncello-bt61900819_729/p",
+      "https://www.bluk.com.br/blusa-malha-listras-frente-com-transpasse-preto--bm62040819_265/p",
+      "https://www.bluk.com.br/blusa-crepe-color-block-alcas-com-fivelas--marinho--bt60860719_331/p",
+      "https://www.bluk.com.br/blusa-bolha-malha-listras-lurex-listrado--bm61600719_501/p",
+      "https://www.bluk.com.br/blusa-tecido-listras-metalic-decote-franzido--preto--bt62260819_265/p",
+      "https://www.bluk.com.br/regata-malha-canelada-com-bojo-preto--bm60980719_265/p",
+      "https://www.bluk.com.br/blusa-tecido-estampa-riomaggiore-alcas-com-argolas-estampado--bt61440719_499/p",
+      "https://www.bluk.com.br/blusa-malha-decote-com-argola-metal-mangas-flare-azul-ceu-bm61500719_724/p",
+      "https://www.bluk.com.br/regata-malha-canelada-com-bojo-salmao-bm60980719_723/p",
+      "https://www.bluk.com.br/blusa--bolha-malha-decote-com-detalhe-franzido-laranja--bm57860619_361/p",
+      "https://www.bluk.com.br/blusa-crepe-super-cava-decote-com-ponteira-argola-com-linhas--preto--bt60760719_265/p",
+      "https://www.bluk.com.br/blusa-tricot-leve-frente-detalhe-tule-metalic-azul--yb43870519_315/p",
+      "https://www.bluk.com.br/blusa-tricot-ombro-trancado-com-aplicacao-mescla--yb43920519_419/p"
+    ],
+    "negative": [
+      "https://www.bluk.com.br/vestido-longo-crepe-alcas-com-macrame-preto--vt60740719_265/p",
+      "https://www.bluk.com.br/calca-reta-linho-lateral-com-lateral-tecido-bordado-off-limoncello-ct61160719_729/p",
+      "https://www.bluk.com.br/calca-reta-malha-estampa-monterosso-estampado--cm62460819_499/p",
+      "https://www.bluk.com.br/vestido-midi-tecido-acetinado-estampado-frente-com-transpasse-e-amarracao--estampado--vt57420519_499/p",
+      "https://www.bluk.com.br/casaqueto-linho-com-tecido-bordado-e-bico-off-limoncello-zt61180719_729/p",
+      "https://www.bluk.com.br/calca-malha-skinny-com-botoes-no-cos-preto--ct55640319_265/p",
+      "https://www.bluk.com.br/vestido-malha-soft-frente-com-amarracao-preto--vm50401218_265/p",
+      "https://www.bluk.com.br/calca-boot-cut-malha-pala-com-transpasse-caqui/p",
+      "https://www.bluk.com.br/over-bolha-tricot-verde--pistache-om62120819_722/p",
+      "https://www.bluk.com.br/institucional/politica-de-troca",
+      "https://www.bluk.com.br/roupas/jaquetas-e-overs?O=OrderByReleaseDateDESC"
+    ]
   },
   "Villevie": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.lojavillevie.com.br/top-blusa/manga-longa/blusa-ciganinha-estampada",
+      "https://www.lojavillevie.com.br/top-blusa/manga-longa/chemise-textura-quadriculada-ju-markan",
+      "https://www.lojavillevie.com.br/top-blusa/manga-longa/blusa-com-amarrac-o",
+      "https://www.lojavillevie.com.br/top-blusa/manga-longa/camisa-de-manga-longa-com-vies",
+      "https://www.lojavillevie.com.br/top-blusa/manga-longa/blusa-alongada-com-top",
+      "https://www.lojavillevie.com.br/top-blusa/regata/blusa-regata-animal-print",
+      "https://www.lojavillevie.com.br/top-blusa/regata/top-c-bojo-pedraria",
+      "https://www.lojavillevie.com.br/top-blusa/regata/blusa-frente-unica-com-faixa",
+      "https://www.lojavillevie.com.br/top-blusa/manga-curta/blusa-transpassada-estampa-maranta",
+      "https://www.lojavillevie.com.br/top-blusa/manga-curta/t-shirt-manga-curta-tule"
+    ],
+    "negative": [
+      "https://www.lojavillevie.com.br/kaftan-listrado-ju-markan",
+      "https://www.lojavillevie.com.br/ju-markan/short-com-saia-removivel-ju-markan-brand",
+      "https://www.lojavillevie.com.br/acessorios/chapeu/chapeu-medio-ju-markan-amarelo",
+      "https://www.lojavillevie.com.br/vestido-longo-lurex-ju-markan",
+      "https://www.lojavillevie.com.br/chapeu-medio-ju-markan-bege",
+      "https://www.lojavillevie.com.br/looks/body-tomara-que-caia-saida-de-banho-unilateral-ju-markan-chapeu-medio-ju-markan-bolsa-noronha-ju-markan-amarelo",
+      "https://www.lojavillevie.com.br/saia/longa/saia-longa-babados-ju-markan-rose",
+      "https://www.lojavillevie.com.br/saia/longa/saia-longa-kilburn",
+      "https://www.lojavillevie.com.br/quem-somos/",
+      "https://www.lojavillevie.com.br/politicas-de-privacidade/",
+      "https://www.lojavillevie.com.br/vestido-longo-de-renda-e-barra-triangulo-ju-markan-branco",
+      "https://www.lojavillevie.com.br/macacao/macaquinho/macaquinho-alfaiataria-com-faixa",
+      "https://www.lojavillevie.com.br/looks/calca-pantalona-c-cinto"
+    ]
   },
   "Achados96": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.achados96.com.br/todos/t-shirt-oversized-amarracao-preto/",
+      "https://www.achados96.com.br/blusas-croppeds/regata-transpassada-lia-gola-preto/",
+      "https://www.achados96.com.br/blusas-croppeds/blusa-crop-flare-xadrez-vermelho/",
+      "https://www.achados96.com.br/todos/camiseta-canelada-metal-off/",
+      "https://www.achados96.com.br/todos/t-shirt-oversized-amarracao-preto/",
+      "https://www.achados96.com.br/todos/camisa-animal-croco/",
+      "https://www.achados96.com.br/blusas-croppeds/blusa-canelada-gola-alta-branco/",
+      "https://www.achados96.com.br/blusas-croppeds/regata-transpassada-lia-gola-preto/",
+      "https://www.achados96.com.br/blusas-croppeds/blusa-naomi-no-preto/",
+      "https://www.achados96.com.br/blusas-croppeds/blusa-metalizada-chumbo/",
+      "https://www.achados96.com.br/todos/camiseta-canelada-metal-off/",
+      "https://www.achados96.com.br/blusas-croppeds/blusa-decote-colorido-manga-curta/"
+    ],
+    "negative": [
+      "https://www.achados96.com.br/acessorios/cintos/cinto-triz-chumbo/",
+      "https://www.achados96.com.br/acessorios/cintos/cinto-slim-vintage-preto/",
+      "https://www.achados96.com.br/saias-shorts-calcas/calca-cargo-sarja-flavia-marrom/",
+      "https://www.achados96.com.br/vestidos-macacoes/macacao-longo-deia-roxo/",
+      "https://www.achados96.com.br/vestidos-macacoes/macaquinho-assy-no-preto/",
+      "https://www.achados96.com.br/vestidos-macacoes/macaquinho-assy-no-coral/",
+      "https://www.achados96.com.br/vestidos-macacoes/vestido-camisetao-veludo-verde/",
+      "https://www.achados96.com.br/saias-shorts-calcas/saia-vinil-evase-vermelho/",
+      "https://www.achados96.com.br/contato/",
+      "https://www.achados96.com.br/saias-shorts-calcas/calca-pantacourt-jardim-preto/",
+      "https://www.achados96.com.br/casacos-jaquetas/blazer-mareu-listras-preto/"
+    ]
   },
   "DWZ": {
-    "positive": [],
-    "negative": []
+    "positive": [
+      "https://www.dwz.com.br/blusa-manga-longa-tule-190704006-p1142134?pp=/44.709/",
+      "https://www.dwz.com.br/blusa-manga-longa-tule-190704006-p1142134?pp=/44.573/",
+      "https://www.dwz.com.br/blusa-lisa-180804017-p999384?pp=/44.709/",
+      "https://www.dwz.com.br/blusa-alca-larga-de-linho-181104002-p1018756?pp=/44.634/",
+      "https://www.dwz.com.br/blusa-alca-decote-v-190804004-p1142842?pp=/44.709/",
+      "https://www.dwz.com.br/blusa-crepe-manga-curta-181204038-p985743?pp=/44.573/",
+      "https://www.dwz.com.br/blusa-cropped-ombro-a-ombro-poa-190804015-p1143527?pp=/44.709/",
+      "https://www.dwz.com.br/blusa-cropped-ombro-a-ombro-poa-190804015-p1143527?pp=/44.573/",
+      "https://www.dwz.com.br/blusa-lisa-ombros-a-mostra-181104028-p985198?pp=/44.1398/",
+      "https://www.dwz.com.br/blusa-ombro-aberto-com-tiras-181104027-p991613?pp=/44.573/",
+      "https://www.dwz.com.br/blusa-oncinha-190404045-p1000794?pp=/44.614/",
+      "https://www.dwz.com.br/blusa-plus-estampada-floral-181004010-p1019090?pp=/44.702/",
+      "https://www.dwz.com.br/blusa-sem-manga-gola-alta-190804011-p1143337?pp=/44.1398/",
+      "https://www.dwz.com.br/blusa-moletom-paris-190404010-p987368?pp=/44.545/"
+    ],
+    "negative": [
+      "https://www.dwz.com.br/saia-jeans-barra-desfiada-190702004-p1142354?pp=/44.542/",
+      "https://www.dwz.com.br/conteudo/sobre-a-dwz/transacoes",
+      "https://www.dwz.com.br/macaquinho-alca-estampado-190705007-p1142119?pp=/44.769/",
+      "https://www.dwz.com.br/conjunto-blusa-e-saia-lurex-181005022-p1040629?pp=/44.707/",
+      "https://www.dwz.com.br/calca-lurex-ziper-frontal-190601009-p1142270?pp=/44.709/",
+      "https://www.dwz.com.br/macacao-bolsos-frontais-gola-xale-190805017-p1144045?pp=/44.763/",
+      "https://www.dwz.com.br/macacao-bolsos-frontais-gola-xale-190805017-p1144045?pp=/44.634/",
+      "https://www.dwz.com.br/short-saia-alfaiataria-botoes-190902001-p1143905?pp=/44.545/",
+      "https://www.dwz.com.br/macaquinho-curto-decote-v-190805002-p1142890?pp=/44.709/",
+      "https://www.dwz.com.br/conteudo/ajuda/politica-de-compra",
+      "https://www.dwz.com.br/conteudo/sobre-a-dwz/sobre-voce",
+      "https://www.dwz.com.br/bolsa-mini-190707004-p1142383?pp=/44.709/",
+      "https://www.dwz.com.br/sandalia-verniz-rasteira-33207039-p1039229?pp=/44.709/",
+      "https://www.dwz.com.br/bolsa-181007022-p1033386?pp=/44.709/",
+      "https://www.dwz.com.br/macacao-longo-decote-v-alcas-finas-190905005-p1144256?pp=/44.769/"
+    ]
   },
-  "MayaraMilfont": {
-    "positive": [],
-    "negative": []
+  "BellaSeda": {
+    "positive": [
+      "https://www.bellaseda.online/produto/254694/blusa-com-manga-curta-no-frontal",
+      "https://www.bellaseda.online/produto/250961/blusa-crepe-com-alca-peplum",
+      "https://www.bellaseda.online/produto/288625/blusa-fardamento",
+      "https://www.bellaseda.online/produto/282391/blusa-fardamento",
+      "https://www.bellaseda.online/produto/250941/blusa-kloque-estampada-com-manga-eelastico-ombro",
+      "https://www.bellaseda.online/produto/283086/blusa-manga-flare",
+      "https://www.bellaseda.online/produto/254487/regata-devore-nadador",
+      "https://www.bellaseda.online/produto/250954/regata-kilin-nadador",
+      "https://www.bellaseda.online/produto/282393/blusa-fardamento",
+      "https://www.bellaseda.online/produto/250958/regata-viscolycra-nadador-estampada",
+      "https://www.bellaseda.online/produto/283087/blusa-manga-flare",
+      "https://www.bellaseda.online/produto/250976/blusa-viscolycra-mc-estampa-plenissima-fundo-branco",
+      "https://www.bellaseda.online/produto/278700/blusa-peplum"
+    ],
+    "negative": [
+      "https://www.bellaseda.online/produto/289491/calca-jogger",
+      "https://www.bellaseda.online/produto/274652/vestido-tubinho",
+      "https://www.bellaseda.online/produto/283088/calca-suede",
+      "https://www.bellaseda.online/produto/288624/bermuda-fardamento",
+      "https://www.bellaseda.online/produto/261188/macacao-estampado",
+      "https://www.bellaseda.online/produto/251043/macacao-crepe-scuba-pantacourt-botao-nuca",
+      "https://www.bellaseda.online/produto/250928/macaquinho-jacquard-com-alca",
+      "https://www.bellaseda.online/produto/251062/short-devore-curto-praia",
+      "https://www.bellaseda.online/produto/257007/short-poliester-curto",
+      "https://www.bellaseda.online/produto/254518/short-crepe-dior-amplo"
+    ]
   }
 }
