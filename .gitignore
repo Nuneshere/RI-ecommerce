@@ -2,3 +2,4 @@
 .DS_Store
 pages/
 Dataframes/
+__pycache__/
