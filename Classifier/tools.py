@@ -10,9 +10,9 @@ def load_database():
 def bag_of_words(content):
     model = CountVectorizer(analyzer="word", max_features=5000)
     vocabulary = model.fit_transform(content)
-    return vocabulary
+    return vocabulary, model
 
 def tf_idf(content):
     model = TfidfTransformer(analyzer="word", max_features=5000)
     vocabulary = model.fit_transform(content)
-    return vocabulary
+    return vocabulary, model
