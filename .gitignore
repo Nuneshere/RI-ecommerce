@@ -1,8 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 pages/
-Dataframes/
 __pycache__/
-Bfs/
-Heuristic/
-Results/
+*.csv
